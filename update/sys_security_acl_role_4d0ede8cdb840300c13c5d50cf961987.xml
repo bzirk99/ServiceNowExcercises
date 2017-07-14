@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-14 13:44:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4d0ede8cdb840300c13c5d50cf961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_136150_marketing_attendees.x_136150_marketing.attendees_user</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_136150_marketing">03ebb2f7db333200c13c5d50cf96190f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">03ebb2f7db333200c13c5d50cf96190f</sys_scope>
+        <sys_security_acl display_value="x_136150_marketing_attendees">450ede8cdb840300c13c5d50cf961985</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4d0ede8cdb840300c13c5d50cf961987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-14 13:44:14</sys_updated_on>
+        <sys_user_role display_value="x_136150_marketing.attendees_user" name="x_136150_marketing.attendees_user">340eda4cdb840300c13c5d50cf96196e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
