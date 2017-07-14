@@ -4,77 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>type</element>
-            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b7facfb7db733200c13c5d50cf9619fc</list_id>
+            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d3437b80db480300c13c5d50cf9619ab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 22:22:16</sys_created_on>
-            <sys_id>3ffacfb7db733200c13c5d50cf9619fc</sys_id>
+            <sys_created_on>2017-07-14 19:56:51</sys_created_on>
+            <sys_id>5f437b80db480300c13c5d50cf9619ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 22:22:16</sys_updated_on>
+            <sys_updated_on>2017-07-14 19:56:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>cost</element>
-            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b7facfb7db733200c13c5d50cf9619fc</list_id>
+            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d3437b80db480300c13c5d50cf9619ab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 22:22:16</sys_created_on>
-            <sys_id>bffacfb7db733200c13c5d50cf9619fc</sys_id>
+            <sys_created_on>2017-07-14 19:56:51</sys_created_on>
+            <sys_id>d3437b80db480300c13c5d50cf9619ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 22:22:16</sys_updated_on>
+            <sys_updated_on>2017-07-14 19:56:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>needed_from</element>
-            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b7facfb7db733200c13c5d50cf9619fc</list_id>
+            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d3437b80db480300c13c5d50cf9619ab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 22:22:16</sys_created_on>
-            <sys_id>33facfb7db733200c13c5d50cf9619fd</sys_id>
+            <sys_created_on>2017-07-14 19:56:51</sys_created_on>
+            <sys_id>57437b80db480300c13c5d50cf9619ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 22:22:16</sys_updated_on>
+            <sys_updated_on>2017-07-14 19:56:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>needed_until</element>
-            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b7facfb7db733200c13c5d50cf9619fc</list_id>
+            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d3437b80db480300c13c5d50cf9619ab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 22:22:16</sys_created_on>
-            <sys_id>b3facfb7db733200c13c5d50cf9619fd</sys_id>
+            <sys_created_on>2017-07-14 19:56:51</sys_created_on>
+            <sys_id>d7437b80db480300c13c5d50cf9619ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 22:22:16</sys_updated_on>
+            <sys_updated_on>2017-07-14 19:56:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>marketing_event</element>
-            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b7facfb7db733200c13c5d50cf9619fc</list_id>
+            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d3437b80db480300c13c5d50cf9619ab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 22:22:16</sys_created_on>
-            <sys_id>37facfb7db733200c13c5d50cf9619fd</sys_id>
+            <sys_created_on>2017-07-14 19:56:51</sys_created_on>
+            <sys_id>5b437b80db480300c13c5d50cf9619ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 22:22:16</sys_updated_on>
+            <sys_updated_on>2017-07-14 19:56:51</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval</element>
+            <list_id display_value="x_136150_marketing_equipment_request" element="NULL" name="x_136150_marketing_equipment_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">d3437b80db480300c13c5d50cf9619ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-14 19:56:51</sys_created_on>
+            <sys_id>db437b80db480300c13c5d50cf9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-14 19:56:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -88,11 +103,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 22:22:16</sys_created_on>
+            <sys_created_on>2017-07-14 19:56:51</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b7facfb7db733200c13c5d50cf9619fc</sys_id>
+            <sys_id>d3437b80db480300c13c5d50cf9619ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_136150_marketing_equipment_request</sys_name>
             <sys_package display_value="Marketing Events Application" source="x_136150_marketing">03ebb2f7db333200c13c5d50cf96190f</sys_package>
@@ -101,7 +116,7 @@
             <sys_scope display_value="Marketing Events Application">03ebb2f7db333200c13c5d50cf96190f</sys_scope>
             <sys_update_name>sys_ui_list_x_136150_marketing_equipment_request_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 22:22:16</sys_updated_on>
+            <sys_updated_on>2017-07-14 19:56:51</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
